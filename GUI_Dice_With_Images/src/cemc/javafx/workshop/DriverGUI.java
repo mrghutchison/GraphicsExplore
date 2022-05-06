@@ -31,7 +31,7 @@ public class DriverGUI extends Application {
 		Font font = new Font("Arial",24);
 		Font fontBold = Font.font("Arial", FontWeight.BOLD, 24);
 		
-		Label title = new Label("DICE Roller");
+		Label title = new Label("DICE Thrower");
 		title.setFont(fontBold);
 		
 		Button btnRoll = new Button("ROLL DICE");
